@@ -7,10 +7,10 @@
 {
     "type": "Microsoft.Storage/storageAccounts",
     "apiVersion": "2018-07-01",
-    "name": "SAJH1",
+    "name": "sajh1",
     "location": "[resourceGroup().location]",
     "tags": {
-        "displayName": "SAJH1"
+        "displayName": "sajh1"
     },
     "properties": {
         "accountType": "Standard_LRS"
